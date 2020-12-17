@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-schmeller/components",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "main": "dist/index",
   "types": "dist/index",
   "scripts": {
@@ -15,7 +15,7 @@
     "react": "~17.0.0"
   },
   "dependencies": {
-    "@monorepo-schmeller/foo": "^1.0.16"
+    "@monorepo-schmeller/foo": "^1.0.17"
   },
   "devDependencies": {
     "@types/react": "~16.9.43"
