@@ -19,8 +19,5 @@
   "devDependencies": {
     "@types/react": "~16.9.43"
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "2fe48dc66d49ab48fff36ec1849f3b31af09e99e"
+  "gitHead": "07245b4a94e04223bccb1d9b69dd0f4556d10882"
 }
