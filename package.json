@@ -1,6 +1,7 @@
 {
   "name": "monorepo-ts",
   "description": "monorepo test",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
