@@ -1,6 +1,6 @@
 {
   "name": "@euax-ui/bar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index",
   "types": "dist/index",
   "files": [
@@ -14,7 +14,7 @@
     "test": "yarn run build"
   },
   "dependencies": {
-    "@euax-ui/foo": "^1.0.3"
+    "@euax-ui/foo": "^1.0.4"
   },
   "devDependencies": {
     "rimraf": "~3.0.2",
