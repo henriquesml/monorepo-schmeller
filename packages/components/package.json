@@ -1,6 +1,6 @@
 {
   "name": "@monorepo-ts/components",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "main": "dist/index",
   "types": "dist/index",
   "scripts": {
@@ -15,7 +15,7 @@
     "react": "~17.0.0"
   },
   "dependencies": {
-    "@monorepo-ts/foo": "^1.0.13"
+    "@monorepo-ts/foo": "^1.0.14"
   },
   "devDependencies": {
     "@types/react": "~16.9.43"
