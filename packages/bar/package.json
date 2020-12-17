@@ -15,7 +15,7 @@
     "pub": "npm publish --access public"
   },
   "dependencies": {
-    "@monorepo-schmeller/foo": "^0.0.1"
+    "@monorepo-schmeller/foo": "^0.0.0"
   },
   "devDependencies": {
     "rimraf": "~3.0.2",
