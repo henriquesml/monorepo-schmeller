@@ -9,9 +9,8 @@
     "docs": "doctoc --title '**Table of content**' README.md",
     "clean": "lerna run clean",
     "build": "lerna run build",
-    "pub": "lerna publish",
-    "test": "lerna run test",
-    "publish-npm": "lerna publish --skip-npm && lerna run publish-npm"
+    "pub": "lerna publish --skip-npm && lerna run publish-npm",
+    "test": "lerna run test"
   },
   "devDependencies": {
     "@nighttrax/eslint-config-tsx": "~6.3.0",
