@@ -1,5 +1,5 @@
 {
-  "name": "@euax-ui/bar",
+  "name": "@monorepo-ts/bar",
   "version": "1.0.10",
   "main": "dist/index",
   "types": "dist/index",
@@ -14,7 +14,7 @@
     "test": "yarn run build"
   },
   "dependencies": {
-    "@euax-ui/foo": "^1.0.10"
+    "@monorepo-ts/foo": "^1.0.10"
   },
   "devDependencies": {
     "rimraf": "~3.0.2",

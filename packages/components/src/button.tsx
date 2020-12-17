@@ -1,5 +1,5 @@
 /* eslint-disable no-alert */
-import { meaningOfLife } from "@euax-ui/foo";
+import { meaningOfLife } from "@monorepo-ts/foo";
 import React from "react";
 
 export const Button = () => (

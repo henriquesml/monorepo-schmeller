@@ -4,7 +4,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@euax-ui/*": ["packages/*/src"]
+      "@monorepo-ts/*": ["packages/*/src"]
     },
     "jsx": "react",
     "esModuleInterop": true,

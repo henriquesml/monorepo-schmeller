@@ -1,5 +1,5 @@
 {
-  "name": "@euax-ui/components",
+  "name": "@monorepo-ts/components",
   "version": "1.0.10",
   "main": "dist/index",
   "types": "dist/index",
@@ -14,7 +14,7 @@
     "react": "~17.0.0"
   },
   "dependencies": {
-    "@euax-ui/foo": "^1.0.10"
+    "@monorepo-ts/foo": "^1.0.10"
   },
   "devDependencies": {
     "@types/react": "~16.9.43"
