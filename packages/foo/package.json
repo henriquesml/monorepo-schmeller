@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-ts/foo",
+  "name": "@monorepo-schmeller/foo",
   "version": "1.0.14",
   "main": "dist/index",
   "types": "dist/index",

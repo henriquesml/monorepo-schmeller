@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-ts",
+  "name": "monorepo-schmeller",
   "description": "monorepo test",
   "private": true,
   "workspaces": [
