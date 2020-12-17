@@ -15,7 +15,7 @@
     "react": "~17.0.0"
   },
   "dependencies": {
-    "@monorepo-schmeller/foo": "^1.0.1"
+    "@monorepo-schmeller/foo": "^0.0.1"
   },
   "devDependencies": {
     "@types/react": "~16.9.43"
