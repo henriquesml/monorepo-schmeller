@@ -1,7 +1,6 @@
 {
   "name": "monorepo-ts",
-  "description": "React design system",
-  "private": true,
+  "description": "monorepo test",
   "workspaces": [
     "packages/*"
   ],
