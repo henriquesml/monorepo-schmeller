@@ -9,7 +9,7 @@
     "compile": "tsc -p tsconfig.build.json",
     "prepublishOnly": "yarn run build",
     "test": "yarn run build",
-    "pub": "npm publish --access public"
+    "pub": "npm publish"
   },
   "peerDependencies": {
     "react": "~17.0.0"
