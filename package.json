@@ -10,7 +10,8 @@
     "clean": "lerna run clean",
     "build": "lerna run build",
     "pub": "lerna publish",
-    "test": "lerna run test"
+    "test": "lerna run test",
+    "publish-npm": "lerna publish --skip-npm && lerna run publish-npm"
   },
   "devDependencies": {
     "@nighttrax/eslint-config-tsx": "~6.3.0",
