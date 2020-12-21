@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-schmeller/components",
+  "name": "@monorepo-ts-lerna/components",
   "version": "1.0.17",
   "main": "dist/index",
   "types": "dist/index",
@@ -15,7 +15,7 @@
     "react": "~17.0.0"
   },
   "dependencies": {
-    "@monorepo-schmeller/foo": "^1.0.17"
+    "@monorepo-ts-lerna/foo": "^1.0.17"
   },
   "devDependencies": {
     "@types/react": "~16.9.43"

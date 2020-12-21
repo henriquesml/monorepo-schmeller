@@ -4,7 +4,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@monorepo-schmeller/*": ["packages/*/src"]
+      "@monorepo-ts-lerna/*": ["packages/*/src"]
     },
     "jsx": "react",
     "esModuleInterop": true,

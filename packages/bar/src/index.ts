@@ -1,4 +1,4 @@
-import { meaningOfLife } from "@monorepo-schmeller/foo"
+import { meaningOfLife } from "@monorepo-ts-lerna/foo"
 
 // eslint-disable-next-line no-console
 console.log(meaningOfLife);
